@@ -15,3 +15,8 @@ Bootstrap
 Contact information: 
 Anna Matviyenko
 e-mail: anna.matviyenko@gmail.com
+
+License
+This software is licensed under GPL license.
+
+Copyright (c) 2016 Anna Matviyenko.
