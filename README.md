@@ -1,22 +1,22 @@
-Anna's bio.
+## Anna's bio.
 A web page about Anna Matviyenko.
 Created by Anna Matviyenko on 5/13/2016.
 This project was created to demosntrate the basic knowledge of HTML,CSS, Git and Bootstrap.
 
-Setup: 
-Open any web browser and type the following URL: C:\Users\Anna\Desktop\Epicodus_projects\intex.html
+### Setup: 
+Open any web browser and type the following URL: www.annasprogrammingportfolio.com
 
-Languages used:
-HTML
-CSS
-Git
-Bootstrap
+### Languages used:
+* HTML
+* CSS
+* Git
+* Bootstrap
 
-Contact information: 
+### Contact information: 
 Anna Matviyenko
 e-mail: anna.matviyenko@gmail.com
 
-License
+### License
 This software is licensed under GPL license.
 
-Copyright (c) 2016 Anna Matviyenko.
+**Copyright (c) 2016 Anna Matviyenko.**
