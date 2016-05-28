@@ -37,4 +37,12 @@ h2 {
 
 .language {
 	color: green;
+} 
+
+ol li {
+	font-style: italic;
+	}
+
+ul li {
+	font-style: italic;
 }
